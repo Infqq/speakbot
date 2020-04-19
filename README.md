@@ -4,7 +4,7 @@
  <p align="center">
     Версия: 1.1
   <p align="center">
-    Мой вк: vk.com/infinityjq
+    Мой вк: https://vk.com/infinityjq
     <br /><br />
 </p>
 
