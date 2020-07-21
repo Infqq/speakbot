@@ -12,6 +12,6 @@ async def wrapper(ans: Message, name):
         response = requests.get("https://isinkin-bot-api.herokuapp.com/1/talk?q="+name.replace(" ","%20")).text[9:-2]
         await ans(f'{response}')
     else:
-        await ans('Команда не найдена.')
+        await ans('Команда не найдена. \n Возможно, что администратор выключил разговорный модуль')
 
-bot.run_polling()
+bot.run_polling(skip_updates=False)
