@@ -2,7 +2,7 @@
 <p align="center">
     Бот ВКонтакте, который общается с пользователями через специальный API.
  <p align="center">
-    Версия: 1.1
+    Версия: 1.2
   <p align="center">
     Мой вк: https://vk.com/infinityjq
     <br /><br />
